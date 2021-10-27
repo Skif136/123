@@ -3,12 +3,12 @@ entries:
   keydb:
   - apiVersion: v2
     appVersion: 6.0.18
-    created: "2021-10-27T10:06:24.277501+06:00"
+    created: "2021-10-27T10:15:06.257323+06:00"
     description: A Helm chart for Kubernetes
-    digest: c46e49ef63b57c7bd92d8b32dc48cfcd0b5f5202cc7b9d641e11aaa2ed735681
+    digest: cb22296b0b07cbc5a96603472f22ed2ce7e58480d10625f11ee86d2c98b66f85
     icon: https://keydb.dev/assets/ico/keydb_logo_bwtxtw.png
     name: keydb
     urls:
     - https://skif136.github.io/123/keydb-0.25.2.tgz
     version: 0.25.2
-generated: "2021-10-27T10:06:24.274034+06:00"
+generated: "2021-10-27T10:15:06.256199+06:00"
